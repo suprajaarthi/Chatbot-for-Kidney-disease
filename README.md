@@ -7,7 +7,9 @@ Run pip install nltk to import the nltk libraries.
 
 It responds with random greeting texts using random.choice()
 
-Data is feeded to respond any queries regarding Kidney diseases. 
+Data is feeded to respond any queries regarding Kidney diseases.
+
+Data is taken from the Article 'https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521'
 
 Data is taken from a open source website and imported as a field. 
 
