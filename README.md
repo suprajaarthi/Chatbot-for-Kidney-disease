@@ -18,7 +18,7 @@
 
     - Data is taken from the Article 
 
-        'https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521'
+        https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521
 
     - Data is taken from a open source website and imported as a field. 
 
