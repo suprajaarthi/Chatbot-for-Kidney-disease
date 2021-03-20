@@ -17,3 +17,6 @@ When it encounters something irreleveant, it responds accordingly
 
 To exit out of the chat, type bye!!!
 
+<b> REGEX </b>
+
+https://s3.amazonaws.com/thinkific/file_uploads/118220/attachments/184/63e/f6b/Regex_Cheatsheet.pdf
